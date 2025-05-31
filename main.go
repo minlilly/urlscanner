@@ -36,7 +36,7 @@ func showBanner() {
 
            URLScan.io Powered Subdomain Discovery Tool v%s
                            by: Psikoz
-                    github.com/psikoz/urlscanner
+                    github.com/Psikoz-coder/urlscanner
 `
 	fmt.Printf(banner, version)
 	fmt.Printf("\n%s\n\n", strings.Repeat("=", 70))
