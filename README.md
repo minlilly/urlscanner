@@ -39,7 +39,7 @@ go build -o urlscanner
 
 ## Prerequisites
 
-- Go 1.19 or higher
+- Go 1.24
 - URLScan.io API key (Get yours at [urlscan.io](https://urlscan.io/))
 
 ## Quick Start
